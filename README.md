@@ -1,5 +1,5 @@
 # n-body Simulation
-N-body simulation for performance timing
+N-body simulation for performance timing written in c
 
 ## Summary
 A n-body simulation modeling the (simplified) affect  the interacting 
